@@ -1,0 +1,22 @@
+<UniqueUniversity>
+	<student>
+		<name>Harry Bald</name>
+		<address>15 Richeter Road</address>
+		<GPA>2.7</GPA>
+	</student>
+	<student>
+		<name>Luke Skywalker</name>
+		<address>7 Lightsaber Lane</address>
+		<GPA>4.0</GPA>
+	</student>
+	<student>
+		<name>Juliette Goldberg</name>
+		<address>76 Romeo Road</address>
+		<GPA>2.9</GPA>
+	</student>
+	<student>
+		<name>Sam Smith</name>
+		<address>20 Lazy Lane</address>
+		<GPA>0.3</GPA>
+	</student>
+</UniqueUniversity>
